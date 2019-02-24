@@ -1,2 +1,4 @@
-# tinklit-for-prestashop
-Accept Bitcoin on your Prestashop store with Tinklit API
+# Tinklit gateway for Prestashop
+Bitcoin gateway to accept bitcoin at Prestashop store with Tinklit API.
+
+Read the plugin installation instructions below to get started with Tinklit payment gateway on your Prestashop store.
